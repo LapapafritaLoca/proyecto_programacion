@@ -1,0 +1,14 @@
+.hola {
+    background: green;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+.chao {
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color: aqua;
+}
